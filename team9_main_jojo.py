@@ -8,10 +8,10 @@ import re
 # ------------------------
 # Twitter APIの準備
 # ------------------------
-consumer_key        = 'xrKH2EMIGGAOe2bz42Hb5lOQ4'
-consumer_secret     = 'zwtSjaubs2SKZLrouCHFEkD6PQxWdOdyHmloKvsQ9xTbVrq96V'
-access_token        = '800596419073540096-oEbWG4AxwDBVrSptsd1rH760YdluYdl'
-access_token_secret = 'XVwJrL5pIFXxvQEUqqYTXgu732xO38W4fQu4UzLCa3Mew'
+consumer_key        = '                    '
+consumer_secret     = '                                     '
+access_token        = '                                   '
+access_token_secret = '                                '
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.secure = True
 auth.set_access_token(access_token, access_token_secret)
