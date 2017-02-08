@@ -1,8 +1,8 @@
 ### Morphological_Analysis
 
-[Slide](https://speakerdeck.com/xxxhal/webtekisutochu-li)
+[スライド資料:speaker deck](https://speakerdeck.com/xxxhal/webtekisutochu-li)
 
-** ・概要 **
+###・概要<br>
 福澤諭吉の「学問のススメ」を、ジョジョの奇妙な冒険風に呟くBot<br>
 学問のススメ全体からランダムに一文を取得し、取得した一文をジョジョっぽい文体にしてつぶやく<br>
 ※ ジョジョっぽい文体とは<br>
@@ -11,7 +11,7 @@
 ・独特な名言が多い<br>
 ・重要な単語が「」でくくられる<br>
 <br>
-** ・処理 **<br>
+###・処理<br>
 1. 文章取得 BeautifulSoup4(スクレイピングライブラリ)を使って、 Webサイトから学問のすすめ全文を取得。全文を句点(。)でsplitし、 その中からランダムに一つをrandom.choice()で選ぶ。<br>
 <br>
 2. 形態素解析 上記で取得した1文を形態素解析(MeCabのChasen形式)にかけ、 単語それぞれの「品詞」と「読み」を取得しリストに保存。
@@ -23,6 +23,6 @@
 <br>
 
 
---------------- 追記 -------------------------<br>
+--------------- 追記 ---------------<br>
 <br>
 ![screen shot 2017-02-09 at 03 58 40](https://cloud.githubusercontent.com/assets/17031124/22752343/87306892-ee7b-11e6-9914-62f6ed4fafd4.png)
