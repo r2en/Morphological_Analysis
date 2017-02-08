@@ -1,6 +1,6 @@
 ### Morphological_Analysis
 
-[スライド資料:speaker deck](https://speakerdeck.com/xxxhal/webtekisutochu-li)
+[スライド資料](https://speakerdeck.com/xxxhal/webtekisutochu-li)
 
 ###・概要<br>
 福澤諭吉の「学問のススメ」を、ジョジョの奇妙な冒険風に呟くBot<br>
