@@ -2,7 +2,7 @@
 <br>
 <img src ="https://cloud.githubusercontent.com/assets/17031124/22752754/0eec7c16-ee7d-11e6-86bf-f0bc1bf0e8b6.png" ALT="SAMPLE" title="IMG"><br>
 <br>
-<img src ="https://speakerdeck.com/xxxhal/webtekisutochu-li" alt="sample" title="Slide"><br>
+[Slide](https://speakerdeck.com/xxxhal/webtekisutochu-li)<br>
 
 ・概要<br>
 福澤諭吉の「学問のススメ」を、ジョジョの奇妙な冒険風に呟くBot<br>
